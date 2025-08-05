@@ -1,0 +1,24 @@
+*{
+    margin: 0.5rem;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body {
+    background-color: #23e4aaab;
+
+}
+
+h1 {
+    color: aliceblue;
+}
+
+span {
+    font-size: 1.5rem;
+    color: rgb(255, 255, 255);
+}
+
+#1 {
+color: aliceblue;
+}
